@@ -5,6 +5,7 @@ small binary; changes are weighed against those goals.
 
 ## Before you start
 
+- **A question** — ask in [Discussions](https://github.com/stratus-emulator/stratus/discussions), not in an issue.
 - **A bug** — open an issue with what you sent (SDK and version, or the request), what stratus answered and what AWS
   answers. A failing test is the best report.
 - **A missing operation or service** — open an issue first, so that we can agree on its scope before you write it.

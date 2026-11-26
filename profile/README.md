@@ -12,5 +12,7 @@ One static Go binary, ready in milliseconds, with the resources you declare in a
 docker run --rm -p 4566:4566 stratusemulator/stratus
 ```
 
-Start at [stratus-emulator/stratus](https://github.com/stratus-emulator/stratus). Contributions are welcome: read
+Start at [stratus-emulator/stratus](https://github.com/stratus-emulator/stratus). Questions and ideas go to
+[Discussions](https://github.com/stratus-emulator/stratus/discussions); contributions are welcome, read
 [how to contribute](https://github.com/stratus-emulator/.github/blob/main/CONTRIBUTING.md) first.
+If stratus saves you time, you can [sponsor its maintainer](https://github.com/sponsors/ODudek).
