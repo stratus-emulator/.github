@@ -1,0 +1,25 @@
+name: Bug report
+description: stratus answers differently from AWS, or fails.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: The call you made (SDK and version, or the request), what stratus answered, and what AWS answers.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      description: A manifest, commands or a short test. A failing Go test is the best.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: stratus version
+      description: The image tag or commit.
+    validations:
+      required: true

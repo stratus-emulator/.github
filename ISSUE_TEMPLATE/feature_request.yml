@@ -1,0 +1,16 @@
+name: Feature request
+description: An operation, service or option stratus does not have.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What you need
+      description: The AWS operation or behaviour, and what your application or test does with it.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: Which parts are enough for you, and which you do not need.
