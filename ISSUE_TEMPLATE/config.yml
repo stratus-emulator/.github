@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Question
+    url: https://github.com/stratus-emulator/stratus/discussions/categories/q-a
+    about: Ask how to do something in Discussions. Issues are for bugs and feature requests.
+  - name: Idea
+    url: https://github.com/stratus-emulator/stratus/discussions/categories/ideas
+    about: Talk an idea through in Discussions before it becomes a feature request.
   - name: Security vulnerability
     url: https://github.com/stratus-emulator/stratus/security/advisories/new
     about: Report it privately, never in a public issue.
